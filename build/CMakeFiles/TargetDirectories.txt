@@ -1,3 +1,0 @@
-/home/pavel/PE/build/CMakeFiles/rebuild_cache.dir
-/home/pavel/PE/build/CMakeFiles/3.dir
-/home/pavel/PE/build/CMakeFiles/edit_cache.dir
